@@ -37,8 +37,8 @@ myButton.addEventListener('click', (e)=>{
   response.write(`
   {
     "note":{
-      "to": "小谷",
-      "from": "方方",
+      "to": "jack",
+      "from": "rose",
       "heading": "打招呼",
       "content": "hi"
     }
